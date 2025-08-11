@@ -14,7 +14,7 @@
     const selected = dataGambar[randomIndex];
 
     // Pilih elemen pertama dengan class gmr-topbanner
-    const targetElement = document.querySelector(".gmr-topbanner");
+    const targetElement = document.querySelector(".gmr-topbanner-img");
 
     // Masukkan gambar dan link
     if (targetElement) {
